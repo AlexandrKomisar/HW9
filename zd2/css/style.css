@@ -1,0 +1,82 @@
+body {
+  background-color: #464f54;
+}
+.app-content {
+  margin-top: 150px;
+  margin-left: 70px;
+  margin-right: 70px;
+  background-color: #ffffff;
+}
+.app-title {
+  background-color: #181818;
+  box-shadow: -3px -3px 59px 0px rgba(0, 0, 0, 0.16);
+  position: absolute;
+  left: 324px;
+  top: 47px;
+  width: 8760px;
+  height: 187px;
+  padding-left: 64px;
+  z-index: 21;
+}
+.p-title {
+  font-size: 15px;
+  font-family: "ProximaNova";
+  padding-top: 40px;
+  color: #767676;
+  text-transform: uppercase;
+  left: 250px;
+  top: 47px;
+}
+.app-article {
+  margin-left: 70px;
+  margin-right: 70px;
+  border-left: 2px solid #e8eced;
+  padding-top: 200px;
+  padding-left: 70px;
+  padding-bottom: 40px;
+}
+h1 {
+  font-size: 52px;
+  font-family: "FuturaPT";
+  color: #2a2a2a;
+  text-transform: uppercase;
+}
+.app-input {
+  background-color: #181818;
+  font-size: 48px;
+  font-family: "PlayfairDisplay";
+  color: #fefefe;
+  outline: none;
+  border: none;
+  border-bottom: 3px solid;
+  border-bottom-color: #303030;
+}
+img {
+  height: 32px;
+  margin: 20px 10px;
+}
+.app-icon {
+  padding-left: 40px;
+  background-color: #f3ba2c;
+  position: absolute;
+  margin-top: 84px;
+  width: 8760px;
+  left: 388px;
+  height: 78px;
+}
+.app-date {
+  font-size: 20px;
+  font-family: "ProximaNova";
+  color: #b4b4b4;
+}
+span {
+  font-size: 30px;
+  font-family: "Georgia";
+  color: #8f8f8f;
+  font-style: italic;
+  line-height: 2px;
+}
+p {
+  font-size: 20px;
+  font-family: "Georgia";
+}
